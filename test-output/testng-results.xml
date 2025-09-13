@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-09-13T12:02:49 IST" name="Suite" finished-at="2025-09-13T12:02:58 IST" duration-ms="9155">
+    <groups>
+    </groups>
+    <test started-at="2025-09-13T12:02:49 IST" name="Test" finished-at="2025-09-13T12:02:58 IST" duration-ms="9155">
+      <class name="com.orangehrm.base.BaseTest">
+        <test-method is-config="true" signature="setupReport()[pri:0, instance:com.orangehrm.base.BaseTest@692f203f]" started-at="2025-09-13T12:02:48 IST" name="setupReport" finished-at="2025-09-13T12:02:49 IST" duration-ms="543" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupReport -->
+        <test-method is-config="true" signature="flushReport()[pri:0, instance:com.orangehrm.base.BaseTest@692f203f]" started-at="2025-09-13T12:02:58 IST" name="flushReport" finished-at="2025-09-13T12:02:58 IST" duration-ms="370" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flushReport -->
+      </class> <!-- com.orangehrm.base.BaseTest -->
+      <class name="com.orangehrm.tests.LoginTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.orangehrm.tests.LoginTest@1bb5a082]" started-at="2025-09-13T12:02:49 IST" name="setUp" finished-at="2025-09-13T12:02:52 IST" duration-ms="3714" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validLoginTest()[pri:0, instance:com.orangehrm.tests.LoginTest@1bb5a082]" started-at="2025-09-13T12:02:52 IST" name="validLoginTest" finished-at="2025-09-13T12:02:57 IST" duration-ms="5175" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validLoginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.orangehrm.tests.LoginTest@1bb5a082]" started-at="2025-09-13T12:02:57 IST" name="tearDown" finished-at="2025-09-13T12:02:58 IST" duration-ms="200" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.orangehrm.tests.LoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

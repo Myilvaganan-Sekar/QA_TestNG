@@ -1,0 +1,15 @@
+# Maven
+/target/
+*.log
+*.class
+!.gitignore
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# Reports
+test-output/
+*.html
+screenshots/
